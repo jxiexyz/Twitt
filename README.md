@@ -2,7 +2,7 @@
 
 Lightweight, **zero-dependency** native Python client for X (Twitter) using internal GraphQL and authenticated HTTP endpoints.
 
-Designed as a drop-in replacement for deprecated REST API v1.1 tools (such as `rettiwt-api`) that fail with `HTTP 404 (code 34)`.
+Fast, reliable automation for engagement, replies, timeline retrieval, and social graph management without heavy browser overhead.
 
 ---
 
